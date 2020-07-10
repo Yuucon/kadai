@@ -10,7 +10,7 @@
 ---
 ### ですが
 ### 様々な人達の声ならば目覚められるのではないか
-![alt](assets/目覚め.png)
+![alt](https://www.shopjapan.co.jp/files/rcms_conv_webp/files/topics/352_ext_01_0_1567759919.webp?v=1567761037)
 ---
 
 
