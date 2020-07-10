@@ -1,1 +1,14 @@
+# logo
+logo : /image/{画像ファイル名}
 
+# background
+logo : /image/{背景画像ファイル名}
+
+# loop
+loop : true
+
+# page
+slide-number: true
+
+# footer
+footnote : "2018 morichu"
